@@ -1,0 +1,17 @@
+{
+  "name": "sunrise-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sunrise.js",
+  "dependencies": {
+    "ifttt-these": "^0.1.5",
+    "pi-blaster.js": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "vartan",
+  "license": "WTFPL"
+}
